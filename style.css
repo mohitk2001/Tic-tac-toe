@@ -1,0 +1,21 @@
+
+body{
+    background: linear-gradient(to right,rgb(76, 144, 207),white);
+
+}
+#box{
+    width: 70%;
+    border: 3px solid rgb(49, 12, 49);
+    height: 80vh;
+    
+    
+}
+.col-4{
+    border: 2px solid black;
+    width: 33.3%;
+}
+.row{
+    height: 33.3%;
+    width: 100%;
+    
+}
