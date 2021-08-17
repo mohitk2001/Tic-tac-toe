@@ -18,7 +18,7 @@ body{
     display: grid;
     grid-template-columns: auto auto auto;
     height: 80vh;
-    width: 80%;
+    width: 60%;
     margin: auto;
     border: 1px solid black;
 }
@@ -27,5 +27,5 @@ body{
     cursor: pointer;
 }
 .box:hover,.box:focus{
-    background-color: darkblue;
+    background-color: rgb(8, 8, 43);
 }
